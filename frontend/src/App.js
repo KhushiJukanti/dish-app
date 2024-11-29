@@ -6,6 +6,7 @@ import Dishes from './Components/Dishes';
 function App() {
   return (
     <div className="App mt-3">
+      {/* initialize Dish component */}
       <Dishes/>
     </div>
   );
